@@ -1,0 +1,16 @@
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\bin\Debug\net5.0\LocadoraWOUT.exe
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\bin\Debug\net5.0\LocadoraWOUT.deps.json
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\bin\Debug\net5.0\LocadoraWOUT.runtimeconfig.json
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\bin\Debug\net5.0\LocadoraWOUT.runtimeconfig.dev.json
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\bin\Debug\net5.0\LocadoraWOUT.dll
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\bin\Debug\net5.0\ref\LocadoraWOUT.dll
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\bin\Debug\net5.0\LocadoraWOUT.pdb
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\LocadoraWOUT.csproj.AssemblyReference.cache
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\LocadoraWOUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\LocadoraWOUT.AssemblyInfoInputs.cache
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\LocadoraWOUT.AssemblyInfo.cs
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\LocadoraWOUT.csproj.CoreCompileInputs.cache
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\LocadoraWOUT.dll
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\ref\LocadoraWOUT.dll
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\LocadoraWOUT.pdb
+C:\Users\mxthe\source\repos\LocadoraWOUT\LocadoraWOUT\obj\Debug\net5.0\LocadoraWOUT.genruntimeconfig.cache
